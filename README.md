@@ -23,7 +23,7 @@ Algochat is a scalable chat microservice application designed to handle millions
 ## OnGoing..
 
 Working incrementally on the application UI and adding more functionalities to it.
-Contanarizing the project and setting up the deployment pipeline to aws
+Containerizing the project and setting up the deployment pipeline to aws
 
 ## Contributing
 
