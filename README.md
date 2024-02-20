@@ -1,7 +1,7 @@
 # Algochat - Scalable Chat Microservice Application
 
 Algochat is a scalable chat microservice application designed to handle millions of users while ensuring stateless consistency, availability, and fault tolerance. It utilizes various technologies including TypeScript, Express.js, Node.js, React.js, Redis PUB/SUB model, Kafka streaming, MongoDB for chat persistence, and PostgreSQL for storing user data.
-
+![Algochat Logo](chatArch.png)
 ## Features
 
 - **Scalability**: Algochat has been tested to handle up to 2 million users, ensuring smooth performance even under high loads.
