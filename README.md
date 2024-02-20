@@ -32,15 +32,6 @@ Containerizing the project and setting up the deployment pipeline to aws
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to all contributors who have helped in the development of Algochat.
-- Inspired by the need for a scalable and reliable chat microservice application.
-
 ---
 
 Feel free to reach out to us with any questions or feedback. Happy chatting with Algochat! 🚀
